@@ -1,4 +1,4 @@
-local keyA = "Test"
+local keyA = "WiiBeta"
 
 
 return keyA
